@@ -1,4 +1,4 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-Meoz/Catttttttttttttttttttttt/refs/heads/main/SuperFastAttack.lua"))()
 local function GetBladeHits()
     local targets = {}
     local function GetDistance(v)
