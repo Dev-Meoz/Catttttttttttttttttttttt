@@ -1,3 +1,4 @@
+
 local function GetBladeHits()
     local targets = {}
     local function GetDistance(v)
